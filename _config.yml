@@ -89,22 +89,22 @@ people-list:
   pic: 3
   position: Lead Developer
   social-list:
-  - title: twitter
+  - title: search
     url: https://twitter.com
-  - title: facebook
+  - title: music
     url: https://facebook.com
-  - title: linkedin
+  - title: paper-clip
     url: https://linkedin.com
 footer-list:
-- title: twitter
+- title: search
   url: https://twitter.com
-- title: facebook
+- title: search
   url: https://facebook.com
-- title: stack-overflow
+- title: bitbucket
   url: https://stackoverflow.com
-- title: twitter
+- title: bitcoin
   url: https://twitter.com
-- title: twitter
+- title: globe
   url: https://twitter.com
 address:
 - line: 3481 Melrose Place
